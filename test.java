@@ -3,7 +3,7 @@ public class Test {
     String name = "Alice";
     int age = 25;
     double score = 89.5;
-
+    System.out.printf("Hello");
     System.out.printf("Name: %s%n", name);
     System.out.printf("Age: %d years%n", age);
     System.out.printf("Score: %.1f%n", score); // Fixed variable and format specifier
