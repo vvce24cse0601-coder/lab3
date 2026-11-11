@@ -6,4 +6,4 @@ make some changes
 print("College Name:", college)
 print("Department:", department)
 print("Hello, Students!")
-print("Python application executed successfully.")
+
