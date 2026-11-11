@@ -1,15 +1,9 @@
-print("Welcome to VVCE College!")
+print("Welcome to Python Programming!")
 
 college = "VVCE"
-department = "Computer Science and Engineering"
-student_name = "Yashu"
-year = "2026"
-
+department = "Computer Science"
+make some changes
 print("College Name:", college)
 print("Department:", department)
-print("Student Name:", student_name)
-print("Academic Year:", year)
-
-print("Welcome to Python Lab!")
-print("Keep Learning and Keep Coding!")
+print("Hello, Students!")
 print("Python application executed successfully.")
