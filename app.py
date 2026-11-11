@@ -1,6 +1,9 @@
-print("Hello from Python Application")
+print("Welcome to Python Programming!")
 
-name="VVCE"
+college = "VVCE"
+department = "Computer Science"
 
-print("Welcome to",name)
-print("Application executed successfully")
+print("College Name:", college)
+print("Department:", department)
+print("Hello, Students!")
+print("Python application executed successfully.")
